@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="88" language="0" nGroups="6">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+      <map code="0x10c00" name="glyph00004"/><!-- OLD TURKIC LETTER ORKHON A -->
+      <map code="0x10c01" name="glyph00005"/><!-- OLD TURKIC LETTER YENISEI A -->
+      <map code="0x10c02" name="glyph00006"/><!-- OLD TURKIC LETTER YENISEI AE -->
+      <map code="0x10c03" name="glyph00007"/><!-- OLD TURKIC LETTER ORKHON I -->
+      <map code="0x10c04" name="glyph00008"/><!-- OLD TURKIC LETTER YENISEI I -->
+      <map code="0x10c05" name="glyph00009"/><!-- OLD TURKIC LETTER YENISEI E -->
+      <map code="0x10c06" name="glyph00010"/><!-- OLD TURKIC LETTER ORKHON O -->
+      <map code="0x10c07" name="glyph00011"/><!-- OLD TURKIC LETTER ORKHON OE -->
+      <map code="0x10c08" name="glyph00012"/><!-- OLD TURKIC LETTER YENISEI OE -->
+      <map code="0x10c09" name="glyph00013"/><!-- OLD TURKIC LETTER ORKHON AB -->
+      <map code="0x10c0a" name="glyph00014"/><!-- OLD TURKIC LETTER YENISEI AB -->
+      <map code="0x10c0b" name="glyph00015"/><!-- OLD TURKIC LETTER ORKHON AEB -->
+      <map code="0x10c0c" name="glyph00016"/><!-- OLD TURKIC LETTER YENISEI AEB -->
+      <map code="0x10c0d" name="glyph00017"/><!-- OLD TURKIC LETTER ORKHON AG -->
+      <map code="0x10c0e" name="glyph00018"/><!-- OLD TURKIC LETTER YENISEI AG -->
+      <map code="0x10c0f" name="glyph00019"/><!-- OLD TURKIC LETTER ORKHON AEG -->
+      <map code="0x10c10" name="glyph00020"/><!-- OLD TURKIC LETTER YENISEI AEG -->
+      <map code="0x10c11" name="glyph00021"/><!-- OLD TURKIC LETTER ORKHON AD -->
+      <map code="0x10c12" name="glyph00022"/><!-- OLD TURKIC LETTER YENISEI AD -->
+      <map code="0x10c13" name="glyph00023"/><!-- OLD TURKIC LETTER ORKHON AED -->
+      <map code="0x10c14" name="glyph00024"/><!-- OLD TURKIC LETTER ORKHON EZ -->
+      <map code="0x10c15" name="glyph00025"/><!-- OLD TURKIC LETTER YENISEI EZ -->
+      <map code="0x10c16" name="glyph00026"/><!-- OLD TURKIC LETTER ORKHON AY -->
+      <map code="0x10c17" name="glyph00027"/><!-- OLD TURKIC LETTER YENISEI AY -->
+      <map code="0x10c18" name="glyph00028"/><!-- OLD TURKIC LETTER ORKHON AEY -->
+      <map code="0x10c19" name="glyph00029"/><!-- OLD TURKIC LETTER YENISEI AEY -->
+      <map code="0x10c1a" name="glyph00030"/><!-- OLD TURKIC LETTER ORKHON AEK -->
+      <map code="0x10c1b" name="glyph00031"/><!-- OLD TURKIC LETTER YENISEI AEK -->
+      <map code="0x10c1c" name="glyph00032"/><!-- OLD TURKIC LETTER ORKHON OEK -->
+      <map code="0x10c1d" name="glyph00033"/><!-- OLD TURKIC LETTER YENISEI OEK -->
+      <map code="0x10c1e" name="glyph00034"/><!-- OLD TURKIC LETTER ORKHON AL -->
+      <map code="0x10c1f" name="glyph00035"/><!-- OLD TURKIC LETTER YENISEI AL -->
+      <map code="0x10c20" name="glyph00036"/><!-- OLD TURKIC LETTER ORKHON AEL -->
+      <map code="0x10c21" name="glyph00037"/><!-- OLD TURKIC LETTER ORKHON ELT -->
+      <map code="0x10c22" name="glyph00038"/><!-- OLD TURKIC LETTER ORKHON EM -->
+      <map code="0x10c23" name="glyph00039"/><!-- OLD TURKIC LETTER ORKHON AN -->
+      <map code="0x10c24" name="glyph00040"/><!-- OLD TURKIC LETTER ORKHON AEN -->
+      <map code="0x10c25" name="glyph00041"/><!-- OLD TURKIC LETTER YENISEI AEN -->
+      <map code="0x10c26" name="glyph00042"/><!-- OLD TURKIC LETTER ORKHON ENT -->
+      <map code="0x10c27" name="glyph00043"/><!-- OLD TURKIC LETTER YENISEI ENT -->
+      <map code="0x10c28" name="glyph00044"/><!-- OLD TURKIC LETTER ORKHON ENC -->
+      <map code="0x10c29" name="glyph00045"/><!-- OLD TURKIC LETTER YENISEI ENC -->
+      <map code="0x10c2a" name="glyph00046"/><!-- OLD TURKIC LETTER ORKHON ENY -->
+      <map code="0x10c2b" name="glyph00047"/><!-- OLD TURKIC LETTER YENISEI ENY -->
+      <map code="0x10c2c" name="glyph00048"/><!-- OLD TURKIC LETTER YENISEI ANG -->
+      <map code="0x10c2d" name="glyph00049"/><!-- OLD TURKIC LETTER ORKHON ENG -->
+      <map code="0x10c2e" name="glyph00050"/><!-- OLD TURKIC LETTER YENISEI AENG -->
+      <map code="0x10c2f" name="glyph00051"/><!-- OLD TURKIC LETTER ORKHON EP -->
+      <map code="0x10c30" name="glyph00052"/><!-- OLD TURKIC LETTER ORKHON OP -->
+      <map code="0x10c31" name="glyph00053"/><!-- OLD TURKIC LETTER ORKHON IC -->
+      <map code="0x10c32" name="glyph00054"/><!-- OLD TURKIC LETTER ORKHON EC -->
+      <map code="0x10c33" name="glyph00055"/><!-- OLD TURKIC LETTER YENISEI EC -->
+      <map code="0x10c34" name="glyph00056"/><!-- OLD TURKIC LETTER ORKHON AQ -->
+      <map code="0x10c35" name="glyph00057"/><!-- OLD TURKIC LETTER YENISEI AQ -->
+      <map code="0x10c36" name="glyph00058"/><!-- OLD TURKIC LETTER ORKHON IQ -->
+      <map code="0x10c37" name="glyph00059"/><!-- OLD TURKIC LETTER YENISEI IQ -->
+      <map code="0x10c38" name="glyph00060"/><!-- OLD TURKIC LETTER ORKHON OQ -->
+      <map code="0x10c39" name="glyph00061"/><!-- OLD TURKIC LETTER YENISEI OQ -->
+      <map code="0x10c3a" name="glyph00062"/><!-- OLD TURKIC LETTER ORKHON AR -->
+      <map code="0x10c3b" name="glyph00063"/><!-- OLD TURKIC LETTER YENISEI AR -->
+      <map code="0x10c3c" name="glyph00064"/><!-- OLD TURKIC LETTER ORKHON AER -->
+      <map code="0x10c3d" name="glyph00065"/><!-- OLD TURKIC LETTER ORKHON AS -->
+      <map code="0x10c3e" name="glyph00066"/><!-- OLD TURKIC LETTER ORKHON AES -->
+      <map code="0x10c3f" name="glyph00067"/><!-- OLD TURKIC LETTER ORKHON ASH -->
+      <map code="0x10c40" name="glyph00068"/><!-- OLD TURKIC LETTER YENISEI ASH -->
+      <map code="0x10c41" name="glyph00069"/><!-- OLD TURKIC LETTER ORKHON ESH -->
+      <map code="0x10c42" name="glyph00070"/><!-- OLD TURKIC LETTER YENISEI ESH -->
+      <map code="0x10c43" name="glyph00071"/><!-- OLD TURKIC LETTER ORKHON AT -->
+      <map code="0x10c44" name="glyph00072"/><!-- OLD TURKIC LETTER YENISEI AT -->
+      <map code="0x10c45" name="glyph00073"/><!-- OLD TURKIC LETTER ORKHON AET -->
+      <map code="0x10c46" name="glyph00074"/><!-- OLD TURKIC LETTER YENISEI AET -->
+      <map code="0x10c47" name="glyph00075"/><!-- OLD TURKIC LETTER ORKHON OT -->
+      <map code="0x10c48" name="glyph00076"/><!-- OLD TURKIC LETTER ORKHON BASH -->
+    </cmap_format_12>
+  </cmap>
+
+</ttFont>
