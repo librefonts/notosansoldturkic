@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Old Turkic",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 7027,
+  "fonts": [
+    {
+      "name": "Noto Sans Old Turkic",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansOldTurkic-Regular.ttf",
+      "postScriptName": "NotoSansOldTurkic",
+      "fullName": "Noto Sans Old Turkic",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
